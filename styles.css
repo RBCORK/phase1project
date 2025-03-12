@@ -1,0 +1,42 @@
+#main {
+    background-color: #75c8dd;
+    margin: 30px 0;
+    font-family: "Times New Roman", Times, Serif;
+    font-weight: 300;
+    text-align: center;
+    box-sizing: border-box;
+    }
+#title {
+    text-size-adjust: 10px;
+}
+
+#img-div {
+    background-color: rgb(181, 181, 181);
+    max-width: 100%;
+    height: auto;
+    padding: 10px;
+    margin: 10px;
+}
+
+#image{
+    max-width:75%;
+    height:auto;
+}
+
+#tribute-info {
+    margin: 16px;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    text-align:left;
+    line-height:3;
+    unicode-bidi: isolate;
+}
+
+#headline {
+    text-align:center;
+}
+
+#quote {
+    font-style:italic;
+}
